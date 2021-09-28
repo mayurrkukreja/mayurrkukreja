@@ -7,10 +7,14 @@ My name is **Mayur Kukreja**. I am a **Software Developer**. My aim is to gain k
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrkukreja"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mayurrkukreja"/>
-
 
 ## My Logo
+
+<p> 
+  <img src="Logo1.gif">
+</p>
+
+
 The logo is descriptive enough for its purpose.
 - The " A " shape resembles the Android development tools - " android studio " and also my middle name.
 - " K " is descriptive for my last name and reminds of syntax while we code <\>
@@ -19,9 +23,6 @@ It doesn't matter if you are beginning now or tomorrow , until and unless your w
 
 Hope you have a Great Day!❤️
 
-<p> 
-  <img src="Logo1.gif">
-</p>
 
 ## ▶ Click Me 👇
 [![Project Video](giphy.gif)](https://www.youtube.com/watch?v=BCT4n6a22ZI)
