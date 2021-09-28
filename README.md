@@ -2,9 +2,6 @@
 
 My name is **Mayur Kukreja**. I am a **Software Developer**. My aim is to gain knowledge in all domains. A passionate worker who can adapt easily to any working environment. Currently looking for opportunities where I can build upon my existing knowledge and contribute to my growth along with learning. Interested in Web Development using Problem Solving, CSS3 and Bootstrap 4 & 5. 
 
-## ▶ Click Me 👇
-[![Project Video](giphy.gif)](https://www.youtube.com/watch?v=BCT4n6a22ZI)
-
 
 ## 🚀 GitHub Stats
 
@@ -22,9 +19,17 @@ It doesn't matter if you are beginning now or tomorrow , until and unless your w
 
 Hope you have a Great Day!❤️
 
-<p align="center"> 
+<p> 
   <img src="Logo1.gif">
 </p>
+
+## ▶ Click Me 👇
+[![Project Video](giphy.gif)](https://www.youtube.com/watch?v=BCT4n6a22ZI)
+
+## If you love any of my projects or content and wish to Support me,
+
+<a href="https://www.buymeacoffee.com/mayurkukreja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
 <!---
 mayurrkukreja/mayurrkukreja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
