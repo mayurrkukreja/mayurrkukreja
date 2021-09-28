@@ -8,7 +8,7 @@ My name is **Mayur Kukreja**. I am a **Software Developer**. My aim is to gain k
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrkukreja"/>
 
 
-## My Logo
+## 🚀 My Logo
 
 <p> 
   <img src="Logo1.gif">
@@ -27,7 +27,7 @@ Hope you have a Great Day!❤️
 ## ▶ Click Me 👇
 [![Project Video](giphy.gif)](https://www.youtube.com/watch?v=BCT4n6a22ZI)
 
-## If you love any of my projects or content and wish to Support me,
+## **If you love any of my projects or content and wish to Support me**,
 
 <a href="https://www.buymeacoffee.com/mayurkukreja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
