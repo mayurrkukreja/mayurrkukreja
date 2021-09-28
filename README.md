@@ -3,19 +3,14 @@
 My name is **Mayur Kukreja**. I am a **Software Developer**. My aim is to gain knowledge in all domains. A passionate worker who can adapt easily to any working environment. Currently looking for opportunities where I can build upon my existing knowledge and contribute to my growth along with learning. Interested in Web Development using Problem Solving, CSS3 and Bootstrap 4 & 5. 
 
 
+[![Project Video](giphy.gif)](https://www.youtube.com/watch?v=BCT4n6a22ZI)
+
+
 ## 🚀 GitHub Stats
 
-
-
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrkukreja"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurrkukreja"/>
-</p>
-
-[![Project Video](https://img.youtube.com/vi/BCT4n6a22ZI/0.jpg)](https://www.youtube.com/watch?v=BCT4n6a22ZI)
+<img src="https://github-readme-stats.vercel.app/api?username=mayurrkukreja"/>
 
 
 ## My Logo
