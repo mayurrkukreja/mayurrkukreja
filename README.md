@@ -1,6 +1,6 @@
 # Hello, folks! <img src="hello.gif" width="30px">
 ## 🚀 About Me -
-- My name is **Mayur Kukreja**. I am an avid reader with an eye for detail. My aim is to gain knowledge in all domains. A passionate worker who can adapt easily to any working environment. Aspiring Software Developer, currently looking for opportunities where I can build upon my existing knowledge and contribute to my growth along with learning. Interested in Web Development using Problem Solving, CSS3 and Bootstrap 4 & 5. 
+- My name is **Mayur Kukreja**. I am a **Software Developer** with an eye for detail. My aim is to gain knowledge in all domains. A passionate worker who can adapt easily to any working environment. Aspiring Software Developer, currently looking for opportunities where I can build upon my existing knowledge and contribute to my growth along with learning. Interested in Web Development using Problem Solving, CSS3 and Bootstrap 4 & 5. 
 - Specialization to acquire - Java Programming
 ## 🚀 My Logo
 The logo is descriptive enough for its purpose.
