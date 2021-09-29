@@ -1,6 +1,5 @@
 <h1>Hey There! My name is Mayur Kukreja<img src="hello.gif" width="30px"></h1>
 <code><strong>Software Developer 😉</strong></code>
-<img align='right' src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e475b7enghagqewvucki767l6kh9g7l2s91wbn2aye3&rid=giphy.gif&ct=g" width="230">
 <code>Indian ❤</code>
 <code>Student</code>
 <code>Currently working on Flutter</code>
@@ -32,21 +31,7 @@ const mayur = {
     quoteByMe: "The Universe is a transformation, our life is what our thoughts make it."
 };
 ```
-
-  ## 🚀 My Logo
-
-  <p> 
-    <img src="Logo1.gif">
-  </p>
-
-
-  The logo is descriptive enough for its purpose.
-  The " A " shape resembles the Android development tools - " android studio " and also my middle name.
-  " K " is descriptive for my last name and reminds of syntax while we code <\>
-  The " M * has been converted to a loop like shape that depicts that - a programmer is on a forever journey to be a learner.
-  It doesn't matter if you are beginning now or tomorrow , until and unless your willing to work. So , cheers 🥂 and lets develop a community to grow in our young days.
-
-  Hope you have a Great Day!❤️
+<code>Hope you are having a Great Day!❤️</code>
 
 
   ## ▶ Click Me 👇
