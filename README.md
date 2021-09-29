@@ -1,10 +1,11 @@
 <h1>Hey There! My name is Mayur Kukreja<img src="hello.gif" width="30px"></h1>
-<code><strong>Software Developer 😉</strong></code>
-<code>Indian ❤</code>
-<code>Student</code>
-<code>Currently working on Flutter</code>
-<br/>
-<code>Exploring Open Source</code>
+<code><strong>Software Developer 😉</strong>
+  <code>Student</code>
+  <code>Indian ❤️</code>
+  <code>Currently working on Flutter</code>
+</code>
+<br/><br/>
+<code>Exploring Open Source ❤️</code>
   
 
 
