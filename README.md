@@ -9,6 +9,7 @@
 <p align="left"> <img src="hello-there.gif"> </p>
 
 [![GitHub badge][]][GitHub handle]
+<br>
 [![Twitter badge][]][Twitter handle]
 
 <hr>
@@ -26,7 +27,7 @@
 
 Hope you have a great day 😄
 
-[Twitter badge]: https://img.shields.io/twitter/follow/mayurrkukreja.svg?style=social&label=Follow
+[Twitter badge]: https://img.shields.io/twitter/follow/mayurkukreja26.svg?style=social&label=Follow
 [Twitter handle]: https://twitter.com/intent/follow?screen_name=mayurkukreja26
 [GitHub badge]: https://img.shields.io/github/followers/mayurrkukreja?style=social
 [GitHub handle]: https://github.com/mayurrkukreja
