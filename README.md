@@ -4,7 +4,9 @@
   <code>Indian ❤️</code>
   <code>Currently working on Flutter</code>
 </code>
-<p align="center"> <img src="hello-there.gif"> </p>
+<br>
+<hr>
+<p align="left"> <img src="hello-there.gif"> </p>
 
 [![GitHub badge][]][GitHub handle]
 [![Twitter badge][]][Twitter handle]
