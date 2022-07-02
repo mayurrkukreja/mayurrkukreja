@@ -6,7 +6,7 @@
 </code>
 <br>
 <hr>
-<p align="left"> <img src="hello-there.gif"> </p>
+<p align="center"> <img src="hello-there.gif"> </p>
 
 [![GitHub badge][]][GitHub handle]
 <br>
