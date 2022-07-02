@@ -1,4 +1,4 @@
-<h1>Hey There! My name is Mayur Kukreja<img src="hello.gif" width="30px"></h1>
+<h1>Hey There! My name is Mayur Kukreja   <img src="hello.gif" width="37"></h1>
 <code><strong>Software Developer 😉</strong>
   <code>Student</code>
   <code>Indian ❤️</code>
