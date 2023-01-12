@@ -14,7 +14,7 @@
 
 <hr>
 
-<p align="center">
+<p align="left">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurrkukreja&theme=tokyonight" />
 </p>
 
