@@ -15,13 +15,10 @@
 <hr>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayurrkukreja&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurrkukreja&theme=tokyonight" />
 </p>
 
 
-[![Activity badge]][Activity link]
-<!--- [![Top Langs badge]][Top Langs link] -->
 
 ![Visitor Count](https://profile-counter.glitch.me/mayurrkukreja/count.svg)
 
