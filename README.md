@@ -40,3 +40,10 @@ Hope you have a great day 😄
 | Banking System           | HTML, CSS, Js | PHP, MySQL, phpmyadmin | https://github.com/mayurrkukreja/Bank-PHP                 | In Progress |
 | Paddy Paws               | HTML, CSS, Js | PHP, MySQL, phpmyadmin | https://github.com/mayurrkukreja/PaddyPaws                | In Progress |
 | Jewelry e-Commerce store | HTML, CSS, Js | PHP, MySQL, phpmyadmin | https://github.com/mayurrkukreja/jewel-store              | In Progress |
+
+## App Development
+
+| Android        | Front End | Backend | Repository                                          | Live (App Listing)                                                        |
+|----------------|-----------|---------|-----------------------------------------------------|---------------------------------------------------------------------------|
+| Calculator     | Flutter   | Dart    | https://github.com/mayurrkukreja/calculator-flutter | https://play.google.com/store/apps/details?id=com.mayurkukreja.calculator |
+| World Time App | Flutter   | Dart    | https://github.com/mayurrkukreja/World_Time_app     | Unavailable                                                               |
