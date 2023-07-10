@@ -45,5 +45,5 @@ Hope you have a great day 😄
 
 | Android        | Front End | Backend | Repository                                          | Live (App Listing)                                                        |
 |----------------|-----------|---------|-----------------------------------------------------|---------------------------------------------------------------------------|
-| Calculator     | Flutter   | Dart    | https://github.com/mayurrkukreja/calculator-flutter | https://play.google.com/store/apps/details?id=com.mayurkukreja.calculator |
-| World Time App | Flutter   | Dart    | https://github.com/mayurrkukreja/World_Time_app     | Unavailable                                                               |
+| Calculator     | Flutter   | Dart    | [Source Code](https://github.com/mayurrkukreja/calculator-flutter) | [Play Store ▶️](https://play.google.com/store/apps/details?id=com.mayurkukreja.calculator) |
+| World Time App | Flutter   | Dart    | [Source Code](https://github.com/mayurrkukreja/World_Time_app)     | Unavailable                                                               |
