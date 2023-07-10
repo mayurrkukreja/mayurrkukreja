@@ -31,3 +31,12 @@ Hope you have a great day 😄
 [Top Langs badge]: https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrkukreja&layout=compact&show_icons=true&hide_border=true&theme=dark
 [Activity badge]: https://activity-graph.herokuapp.com/graph?username=mayurrkukreja&theme=react-dark
 [Activity link]: https://activity-graph.herokuapp.com/
+
+## Personal Projects
+
+| Web App                  | Front End     | Backend                | Repository                                                | Live Demo   |
+|--------------------------|---------------|------------------------|-----------------------------------------------------------|-------------|
+| Workout Planner          | ReactJs       | NodeJs, ExpressJs      | https://github.com/mayurrkukreja/Workout-Planner-Frontend | In Progress |
+| Banking System           | HTML, CSS, Js | PHP, MySQL, phpmyadmin | https://github.com/mayurrkukreja/Bank-PHP                 | In Progress |
+| Paddy Paws               | HTML, CSS, Js | PHP, MySQL, phpmyadmin | https://github.com/mayurrkukreja/PaddyPaws                | In Progress |
+| Jewelry e-Commerce store | HTML, CSS, Js | PHP, MySQL, phpmyadmin | https://github.com/mayurrkukreja/jewel-store              | In Progress |
