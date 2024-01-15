@@ -30,3 +30,4 @@ _"Time is our Greatest Asset" -Mayur Kukreja_
 |----------------|-----------|---------|-----------------------------------------------------|---------------------------------------------------------------------------|
 | Calculator     | Flutter   | Dart    | [Source Code](https://github.com/mayurrkukreja/calculator-flutter) | [Play Store ▶️](https://play.google.com/store/apps/details?id=com.mayurkukreja.calculator) |
 | World Time App | Flutter   | Dart    | [Source Code](https://github.com/mayurrkukreja/World_Time_app)     | Unavailable                                                               |
+| 2048 Game      | Flutter   | Dart    | [Private](https://github.com)| [Play Store ▶️](https://play.google.com/store/apps/details?id=com.games.boardgames.flutter_games&pcampaignid=web_share)|
