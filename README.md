@@ -2,17 +2,27 @@
 
 _"Power comes in response to a need, not a desire" -Goku_
 
-_"Time is our Greatest Asset" -Mayur Kukreja_
+_"Have a strong resolve for things that matter to you!"_
+
+<p align="left"> <img src="hello-there.gif"> </p>
 
 ### Visitor Count 🔄️
 ![Visitor Count](https://profile-counter.glitch.me/mayurrkukreja/count.svg)
 
-### Daily Activity
-<p align="left"> <img src="hello-there.gif"> </p>
-
+## Github Stats
 <p align="left">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurrkukreja&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurrkukreja&theme=dark" />
 </p>
+
+![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurrkukreja&show_icons=true&theme=dark)
+</p>
+
+<a href="https://github.com/mayurrkukreja/mayurrkukreja">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrkukreja&hide=jupyter%20notebook,hack,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+
 
 
 ## Personal Projects
