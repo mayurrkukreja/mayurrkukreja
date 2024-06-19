@@ -4,7 +4,18 @@ _"Power comes in response to a need, not a desire" -Goku_
 
 _"Have a strong resolve for things that matter to you!"_
 
-<p align="left"> <img src="hello-there.gif"> </p>
+<h3 align="left">Love to design and develop</h3>
+<img align="right" alt="Coder GIF" src="hello-there.gif" />
+
+- 🔭 I’m currently working on myself
+- 🎮 I am a passionate designer/developer
+- 🎨 Love to design and develop both mobile and web apps
+
+- 👨‍💻 All of my projects are available [Here](https://github.com/mayurrkukreja?tab=repositories)
+
+- 💬 You can ask me about anything
+
+- 🧑🏻‍💻 I love trekking, gaming and coding 
 
 ### Visitor Count 🔄️
 ![Visitor Count](https://profile-counter.glitch.me/mayurrkukreja/count.svg)
@@ -13,17 +24,6 @@ _"Have a strong resolve for things that matter to you!"_
 <p align="left">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurrkukreja&theme=dark" />
 </p>
-
-![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurrkukreja&show_icons=true&theme=dark)
-</p>
-
-<a href="https://github.com/mayurrkukreja/mayurrkukreja">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrkukreja&hide=jupyter%20notebook,hack,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-
-
 
 ## Personal Projects
 
