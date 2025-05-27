@@ -5,7 +5,6 @@ _"Power comes in response to a need, not a desire" -Goku_
 _"Have a strong resolve for things that matter to you!"_
 
 <h3 align="left">Love to design and develop</h3>
-<img align="right" alt="Coder GIF" src="hello-there.gif" />
 
 - 🔭 I’m currently working on myself
 - 🎮 I am a passionate designer/developer
