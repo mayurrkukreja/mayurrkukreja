@@ -16,22 +16,12 @@ _"Have a strong resolve for things that matter to you!"_
 
 - 🧑🏻‍💻 I love trekking, gaming and coding 
 
-### Visitor Count 🔄️
-![Visitor Count](https://profile-counter.glitch.me/mayurrkukreja/count.svg)
-
-## Github Stats
-<p align="left">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurrkukreja&theme=dark" />
-</p>
 
 ## Personal Projects
 
 | Web App                  | Front End     | Backend                | Repository                                                | Live Demo   |
 |--------------------------|---------------|------------------------|-----------------------------------------------------------|-------------|
-| Workout Planner          | ReactJs       | NodeJs, ExpressJs      | [Source Code](https://github.com/mayurrkukreja/Workout-Planner-Frontend) | In Progress |
-| Banking System           | HTML, CSS, Js | PHP, MySQL, phpmyadmin | [Source Code](https://github.com/mayurrkukreja/Bank-PHP)                 | In Progress |
-| Paddy Paws               | HTML, CSS, Js | PHP, MySQL, phpmyadmin | [Source Code](https://github.com/mayurrkukreja/PaddyPaws)                | In Progress |
-| Jewelry e-Commerce store | HTML, CSS, Js | PHP, MySQL, phpmyadmin | [Source Code](https://github.com/mayurrkukreja/jewel-store)              | In Progress |
+| Art Gallery          | ReactJs       | NodeJs, ExpressJs      | [Private]() | [Link](https://art-gallery-frontend-a3rc.vercel.app)  |
 
 ## App Development
 
